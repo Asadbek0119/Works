@@ -1,0 +1,174 @@
+@media (max-width: 1399.5px) {
+    .works__desc-title {
+        font-size: 25px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 18px !important; 
+        margin: 15px 0 25px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 1199.5px) {
+    .works__desc-title {
+        font-size: 22px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 16px !important; 
+        margin: 15px 0 25px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 991.5px) {
+    .works__desc-title {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 14.6px !important; 
+        margin: 15px 0 20px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 767.5px) {
+    .works__desc-title {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 12.3px !important; 
+        margin: 15px 0 20px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .footer__link {
+        font-size: 15px !important;
+    }
+    .footer__link1 {
+        font-size: 13px !important;
+    }
+}
+@media (max-width: 577px) {
+    .about__imgs {
+        padding-right: unset !important;
+    }
+    .about__imgs-btn {
+        font-size: 12px !important;
+        font-weight: 400;
+        padding: 10px 0 !important;
+        width: unset !important;
+        top: 4%;
+        left: -11%;
+    }
+    .about__imgs-span {
+        width: 20px !important;
+        height: 20px !important;
+    }
+        .works__desc-title {
+            font-size: 20px !important;
+            line-height: 20px !important;
+        }
+        .works__desc-text {
+            font-weight: 400;
+            font-size: 12px !important; 
+            margin: 15px 0 20px 0 !important;
+        }
+        .works__desc-btn {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 22px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+        }
+}
+@media (max-width: 553px) {
+    .works__desc-title {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 11.5px !important; 
+        margin: 15px 0 20px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 502px) {
+    .works__desc {
+        padding: unset !important;
+    }
+    .works__desc-title {
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 11.5px !important; 
+        margin: 15px 0 20px 0 !important;
+        text-align: unset !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 10px !important;
+        padding: 5px 0px !important;
+        width: 80% !important;
+    }
+}
+@media (max-width: 467px) {
+    .works__desc-title {
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+    .works__desc-text {
+        font-weight: 400;
+        font-size: 10.8px !important; 
+        margin: 15px 0 26px 0 !important;
+    }
+    .works__desc-btn {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .footer__link {
+        font-size: 15px !important;
+    }
+    .footer__link1 {
+        font-size: 10px !important;
+    }
+}
